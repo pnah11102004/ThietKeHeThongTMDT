@@ -1,0 +1,42 @@
+
+‎ImplicitUsings‎
+No definitions or references found
+Skip to content
+ThietKeHeThongTMDT
+Repository navigation
+Code
+Issues
+Pull requests
+Agents
+Actions
+Projects
+Wiki
+Important update
+On April 24 we'll start using GitHub Copilot interaction data for AI model training unless you opt out. Review this update and manage your preferences in your GitHub account settings.
+ThietKeHeThongTMDT
+/WooProductManager.csproj
+pnah11102004
+pnah11102004
+Add files via upload
+93a1448
+ · 
+5 months ago
+14 lines (11 loc) · 351 Bytes
+
+Code
+
+Blame
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+</Project>
